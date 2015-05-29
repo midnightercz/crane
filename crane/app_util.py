@@ -7,7 +7,7 @@ from rhsm import certificate
 from rhsm import certificate2
 
 from crane import exceptions
-from crane import data
+import data
 
 
 logger = logging.getLogger(__name__)
